@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 😄 My name is Xinzhou Wang, and I'm a third-year PhD student at [CEIE], [Tongji University] and [Department of Computer Science], [Tsinghua University]. 
++ 😄 My name is Xinzhou Wang, and I'm a third-year PhD student at CEIE, Tongji University and Department of Computer Science, Tsinghua University. 
 + 💡 I'm profoundly interested in **3D Computer Vision** (e.g., Gaussian, NeRF, 3D AIGC) and **Robotics** (e.g., Grasping).
 + 🌱 I am also keen on **Electronic Guitar**, **Drum**, and **Dota2**!
 + 📫 Contact me: [**Email**](mailto:wangxinzhou.buaa@foxmail.com)
